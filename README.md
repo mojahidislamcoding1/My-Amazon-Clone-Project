@@ -10,9 +10,9 @@ It includes navigation, product sections, and layout similar to Amazon.
 - HTML
 - CSS
 
-## ▶️ How to View
-1. Clone or download this repository  
-2. Open `index.html` in any web browser
+🌐 Live Demo
+
+https://mojahidislamcoding1.github.io/My-Amazon-Clone-Project/
 
 ## 👨‍💻 Created By
 **Mojahid Islam**  
